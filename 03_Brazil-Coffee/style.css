@@ -31,6 +31,12 @@ button{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+button:hover{
+    cursor: pointer;
+    transition: color;
+    background-color: white;
+    color: #d5384d;
+}
 p{
     font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
     font-size: 18px;
